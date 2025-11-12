@@ -1,0 +1,20 @@
+.ide-container {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+.sidebar {
+  border-color: var(--border-color);
+}
+
+.monaco-container {
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 0 !important;
+  min-width: 0 !important;
+}
+
+.monaco-container .monaco-editor {
+  width: 100% !important;
+  height: 100% !important;
+}
