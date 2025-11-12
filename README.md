@@ -1,4 +1,4 @@
-# 🌧️ Rainy Aether
+# 🌧️ Rainy Aether Insiders
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 **The Next-Generation AI-Native Code Editor**
 
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/enosislabs/rainy-aether)
+[![Version](https://img.shields.io/badge/version-0.1.0-green.svg)](https://github.com/enosislabs/rainy-aether)
 [![License](https://img.shields.io/badge/license-TBD-orange.svg)](./LICENSE)
 [![Tauri](https://img.shields.io/badge/Tauri-2.0-FFC131.svg)](https://tauri.app/)
 [![React](https://img.shields.io/badge/React-19-61DAFB.svg)](https://reactjs.org/)
@@ -19,9 +19,9 @@
 
 ---
 
-## 🎯 What is Rainy Aether?
+## 🎯 What is Rainy Aether Insiders?
 
-Rainy Aether is an **open-source, AI-first code editor** built from the ground up for the modern developer. Combining the power of VS Code's Monaco editor with a blazing-fast Rust backend powered by Tauri 2.0, it delivers exceptional performance while using a fraction of the resources of traditional IDEs.
+Rainy Aether Insiders is an **open-source, AI-first code editor** built from the ground up for the modern developer. Combining the power of VS Code's Monaco editor with a blazing-fast Rust backend powered by Tauri 2.0, it delivers exceptional performance while using a fraction of the resources of traditional IDEs.
 
 **Built by [Enosis Labs, Inc.](https://enosislabs.com)** 🏢
 
@@ -287,3 +287,4 @@ If Rainy Aether helps you code better, consider:
 **Copyright © 2025 Enosis Labs, Inc. All rights reserved.**
 
 </div>
+
